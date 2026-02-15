@@ -34,6 +34,8 @@ The following Python stack is required:
 The raw data is sourced from the **India Air Quality Data** archive on Kaggle.
 * **Feature used**: `no2`
 
+---
+
 ## 📈 Results
 The implementation successfully outputs:
 * **$\mu$**: The central tendency of the transformed air quality data.
